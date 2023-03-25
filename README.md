@@ -35,6 +35,7 @@
 <!--Conjunto de prints da aplicação-->
 <h1 align="center">
     <img title="Imagem 1" src="https://github.com/Jorge-Mateus/ConsultaCNPJ/blob/main/Resource/Sem%20t%C3%ADtulo.png"/>
+    <img title="Imagem 2" src="https://github.com/Jorge-Mateus/ConsultaCNPJ/blob/main/Resource/consulta.png"/>
 </h1>
 
 <h2 id="prereq">📀 Pré-requisitos e como rodar a aplicação</h2>
