@@ -1,5 +1,5 @@
 # <h1 align="center">CONSULTOR CNPJ</h1><!--Nome curto e objetivo-->
-<h5 align="center">Status: Em andamento </h5><!--Concluido, Em andamento ou Finalizado-->
+<h5 align="center">Status: Concluido </h5><!--Concluido, Em andamento ou Finalizado-->
 
 
 <h2>Sumário</h2>
@@ -28,11 +28,6 @@
 <ul>
     <li>API para buscar CNPJ integrando outra API publica</li>
     <li>Consultar CNPJ (GET)</li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
 </ul>
 
 
