@@ -34,8 +34,7 @@
 <h2 id="demo">🎥 Demonstração da aplicação</h2>
 <!--Conjunto de prints da aplicação-->
 <h1 align="center">
-    <img title="Imagem 1" src="https://github.com/Jorge-Mateus/ConsultaCNPJ/blob/main/Resource/Sem%20t%C3%ADtulo.png
-"/>
+    <img title="Imagem 1" src="https://github.com/Jorge-Mateus/ConsultaCNPJ/blob/main/Resource/Sem%20t%C3%ADtulo.png"/>
 </h1>
 
 <h2 id="prereq">📀 Pré-requisitos e como rodar a aplicação</h2>
